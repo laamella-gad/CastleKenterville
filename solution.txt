@@ -1,0 +1,40 @@
+  ja
+gehe tuer
+oeffne tuer
+oeffne osten
+nimm hammer
+nimm nagel
+nimm brett
+nimm feile
+zurueck
+oeffne norden
+druecke knopf
+nimm zettel
+lese zettel
+druecke oben
+nimm teppich
+oeffne tuer
+6186
+sehe sueden
+oeffne falltuer
+zurueck
+zurueck
+nimm lampe
+zurueck
+gehe kamin
+sehe oben
+ja
+benutze feile
+sehe oben
+nimm schluessel
+zurueck
+zurueck
+oeffne westen
+oeffne tuer
+benutze hammer
+gehe loch
+nimm deckel
+3
+benutze nagel
+gehe loch
+gehe loch
