@@ -19,4 +19,6 @@ It contained the usual RUN/STOP RESTORE disable pokes.
 
 The D64 is right here in the repository.
 
+[This playthrough](https://youtu.be/WRnCrbeYc8w) inspired me to fix the thing.
+
 Have fun :-)
